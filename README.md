@@ -9,7 +9,7 @@
 
 ｜最终结果（马赛克处理后）
 
-![生成结果](https://www.gitlink.org.cn/Efk7rjfxl/ZH_JittorChallenge/tree/master/result.png)
+![生成结果](https://images.cnblogs.com/cnblogs_com/illlioo/2172366/o_220608025727_result.png)
 
 ## 安装 
 | 基本的硬件需求、运行环境、依赖安装方法
