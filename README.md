@@ -9,7 +9,7 @@
 
 ｜最终结果（马赛克处理后）
 
-![生成结果](.\result.png)
+![生成结果](https://www.gitlink.org.cn/Efk7rjfxl/ZH_JittorChallenge/tree/master/result.png)
 
 ## 安装 
 | 基本的硬件需求、运行环境、依赖安装方法
@@ -19,7 +19,7 @@
 #### 运行环境
 - Win 10
 - python >= 3.8
-- jittor >= 1.3.0
+- jittor
 
 #### 安装依赖
 执行以下命令安装 python 依赖
